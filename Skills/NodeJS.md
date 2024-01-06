@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
+  - UDP 🖐️ used
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS 🖐️ used
+  - Fetch API 
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -116,14 +116,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
   - back pressure
   - Buffer
-  - Console
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,7 +131,7 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -152,16 +152,16 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI C and C++
+  - NAPI C and C++ 👂 heard
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++ 👂 heard
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
